@@ -7,11 +7,11 @@ Bezels for Powkiddy RGB30
 
 ![preview](https://github.com/Vidnez/Boxart-Bezels/assets/82564218/2b73233a-5322-4ebe-9e83-cb2d8f247697)
 
-# General Instructions (Applying the overlay)
+# General Instructions (Applying overlays)
 
 Open 'Quick Menu' on Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose the .cfg file for the system in use. 
 
-# Aligning the overlay for 4:3 systems (not handhelds).
+# Aligning overlays for 4:3 systems (not handhelds).
 
 Settings ->
 

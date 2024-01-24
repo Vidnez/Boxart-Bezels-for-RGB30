@@ -5,7 +5,8 @@ Bezels for Powkiddy RGB30
 
 # Preview
 
-![preview](https://github.com/Vidnez/Boxart-Bezels/assets/82564218/2b73233a-5322-4ebe-9e83-cb2d8f247697)
+![preview](https://github.com/Vidnez/Boxart-Bezels/assets/82564218/0d291d3c-06e7-4dcc-891f-84c9fc62f99b)
+
 
 # General Instructions (Applying overlays)
 

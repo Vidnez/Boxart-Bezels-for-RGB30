@@ -1,7 +1,7 @@
 # Boxart-Bezels
 Bezels for Powkiddy RGB30
 
-4:3 bezels for Retroarch based on games boxart. I recommend to use sharp-bilinear-2x-prescale shader to avoid uneven pixels in 4:3 systems, it add a little blurines but it's worth it.
+4:3 bezels for Retroarch based on games boxart. I recommend to use pixel-art-scaling/pixel_aa.glslp shader to avoid uneven pixels in 4:3 systems.
 
 # Preview
 
